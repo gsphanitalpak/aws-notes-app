@@ -48,7 +48,7 @@ All notes are stored in a JSON file inside an AWS S3 bucket, ensuring persistenc
 
 ```bash
 git clone https://github.com/gsphanitalpak/aws-notes-app.git
-cd notes-app
+cd aws-notes-app
 ```
 
 ### 2. Configure AWS
